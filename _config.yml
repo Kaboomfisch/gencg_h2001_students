@@ -20,5 +20,5 @@ collections:
   02-Agents:
     output: true
     
-  03-Sketches:
+  01-Shapes copy:
     output: true
