@@ -19,3 +19,6 @@ collections:
     
   02-Agents:
     output: true
+    
+  03-Sketches:
+    output: true
