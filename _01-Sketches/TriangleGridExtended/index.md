@@ -1,7 +1,7 @@
 ---
 layout: sketch
 title: "TriangleGridExtended" 
-category: "Experiment" 
+category: "Sketch" 
 thumb_name: "Bild11.png"
 includes:
   - src: "sketch.js"

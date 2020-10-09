@@ -1,7 +1,7 @@
 ---
 layout: sketch
 title: "Spirale" 
-category: "Experiment" 
+category: "Sketch" 
 thumb_name: "Bild7.png"
 includes:
   - src: "sketch.js"

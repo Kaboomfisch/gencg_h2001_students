@@ -1,7 +1,7 @@
 ---
 layout: sketch
 title: "RandomDraw" 
-category: "Experiment" 
+category: "Sketch" 
 thumb_name: "Bild13.png"
 includes:
   - src: "sketch.js"

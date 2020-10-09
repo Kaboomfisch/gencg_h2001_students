@@ -1,7 +1,7 @@
 ---
 layout: sketch
 title: "NoiseWaterfall" 
-category: "Experiment" 
+category: "Sketch" 
 thumb_name: "Bild14.png"
 includes:
   - src: "sketch.js"

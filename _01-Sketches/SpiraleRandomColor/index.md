@@ -1,7 +1,7 @@
 ---
 layout: sketch
 title: "SpiraleRandomColor" 
-category: "Experiment" 
+category: "Sketch" 
 thumb_name: "Bild8.png"
 includes:
   - src: "sketch.js"

@@ -1,7 +1,7 @@
 ---
 layout: sketch
 title: "RotatingTrianglesStretchy" 
-category: "Experiment" 
+category: "Sketch" 
 thumb_name: "Bild12.png"
 includes:
   - src: "sketch.js"

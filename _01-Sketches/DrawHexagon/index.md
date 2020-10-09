@@ -1,7 +1,7 @@
 ---
 layout: sketch
 title: "DrawHexagon" 
-category: "Experiment" 
+category: "Sketch" 
 thumb_name: "Bild6.png"
 includes:
   - src: "sketch.js"

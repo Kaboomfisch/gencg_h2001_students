@@ -1,7 +1,7 @@
 ---
 layout: sketch
 title: "DrawShapes" 
-category: "Experiment" 
+category: "Sketch" 
 thumb_name: "Bild15.png"
 includes:
   - src: "sketch.js"
