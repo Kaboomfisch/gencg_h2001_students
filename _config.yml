@@ -6,19 +6,13 @@
 # url: "" # the base hostname & protocol for your site
 
 twitter_username: yourname
-github_username: yourname
-title: I.BA_222_GENCG.H1901
-subtitle: I.BA_222_GENCG.H1901 - Winter 2019
+github_username: Kaboomfisch
+title: I.BA_222_GENCG.H2001
+subtitle: I.BA_222_GENCG.H2001
 
 # # Build settings
 # markdown: kramdown
 
 collections:
-  01-Shapes:
-    output: true
-    
-  02-Agents:
-    output: true
-    
-  01-Shapes copy:
+  01-Sketches:
     output: true
