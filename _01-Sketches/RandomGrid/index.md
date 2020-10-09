@@ -2,7 +2,7 @@
 layout: sketch
 title: "RandomGrid" 
 category: "Sketch" 
-thumb_name: "Bild16.png"
+thumb_name: "Bild21.png"
 includes:
   - src: "sketch.js"
 ---
