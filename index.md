@@ -1,6 +1,5 @@
 ---
 layout: front
 title: "Generative Computer Graphics" 
-subtitle: "I.BA_222_GENCG.H2001
-Maurus Amstutz"
+subtitle: "Maurus Amstutz - I.BA_222_GENCG.H2001"
 ---
